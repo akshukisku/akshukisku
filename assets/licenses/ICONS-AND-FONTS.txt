@@ -1,0 +1,6 @@
+Fonts: Bebas Neue (c) The Bebas Neue Project Authors and JetBrains Mono (c) The JetBrains Mono Project Authors,
+both under the SIL Open Font License 1.1 (full text in the two OFL files here). Latin subsets, WOFF2, embedded as base64
+from the @fontsource npm packages.
+
+Icons: Simple Icons (https://simpleicons.org, CC0 1.0 for the icon files) via the npm package "simple-icons".
+The icons are trademarks of their respective owners. Zustand and VS Code have no Simple Icons mark, so they appear as text chips only.
